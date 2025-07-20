@@ -8,8 +8,7 @@ This project provides a comprehensive response to the Take-Home Assignment desig
 
 ## Contents
 
-- Assignment solution file
-- Test cases and scenarios
+Assignment solution file: All 4 parts are in one PDF document
 
 ## Usage
 
