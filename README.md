@@ -4,7 +4,7 @@ This repository contains the solution for the Manual QA Engineer Take-Home Assig
 
 ## Overview
 
-This project provides a comprehensive response to the Take-Home Assignment designed for Manual QA Engineer candidates at Zadara. It showcases a structured approach to manual testing, documentation, and quality assurance best practices.
+This project provides a comprehensive response to the Take-Home Assignment designed for Manual QA Engineer candidates at Zadara. It showcases a structured approach to manual testing and best practices in quality assurance.
 
 ## Contents
 
