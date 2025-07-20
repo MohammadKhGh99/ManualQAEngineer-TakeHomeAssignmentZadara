@@ -9,6 +9,7 @@ This project provides a comprehensive response to the Take-Home Assignment desig
 ## Contents
 
 Assignment solution file: All 4 parts are in one PDF document
+[Go To Document](./Manual-QA-Engineer-Assignment.pdf)
 
 ## Usage
 
